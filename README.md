@@ -15,16 +15,17 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
+  <div>
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=qihang-s&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qihang-s&area=true&hide_border=true&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149" width="100%" />
-  </div>
 
 
 </div>
@@ -33,11 +34,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qihang-s&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=qihang-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qihang-s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=qihang-s&theme=tokyonight&no-frame=true&row=1&column=4" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qihang-s&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
