@@ -78,3 +78,9 @@
 </div>
 
 ---
+
+<div align="center">
+
+✨ *"Cutting edges, not corners."* ✨  
+
+</div>
